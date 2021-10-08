@@ -1,1 +1,1 @@
-# course-react-small
+# course-react
